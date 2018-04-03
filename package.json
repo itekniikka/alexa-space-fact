@@ -1,0 +1,14 @@
+{
+  "name": "busterlamda",
+  "version": "0.1.0",
+  "description": "Buster response as an AWS Lamda",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Moshe Weitzman",
+  "license": "Unlicense",
+  "dependencies": {
+    "xml2js": "^0.4.16"
+  }
+}
